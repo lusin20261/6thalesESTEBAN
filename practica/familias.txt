@@ -1,0 +1,6 @@
+1:mi ama
+2:mi apa
+3:mi gato
+4:mi hermano
+5:mi perro
+B

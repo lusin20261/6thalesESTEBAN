@@ -1,0 +1,5 @@
+1:de literatura
+2:de computo 
+3:de educacion fisica
+4:de biologia
+5:de historia
